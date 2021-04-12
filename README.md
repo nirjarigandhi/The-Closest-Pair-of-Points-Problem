@@ -1,4 +1,4 @@
-# The-Closest-Pair-of-Points-Problem
+# The Closest Pair of Points Problem: Processes and Pipes
 Given n points on a 2D plane, find the distance between the closest pair of points.
 
 **The Closest Pair of Points Problem**
